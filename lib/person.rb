@@ -16,8 +16,6 @@ end
 lady = Person.new
 lady.name = "Beyonce"
 lady.name
-
-guy = Person.new
-guy.job = "Singer"
-guy.job
+lady.job = "Singer"
+lady.job
 
