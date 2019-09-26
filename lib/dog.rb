@@ -7,6 +7,6 @@ class Dog
   end
 iggy = Dog.new
 iggy.name = "Fido"
-
+iggy.name
 end  
 
