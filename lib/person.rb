@@ -13,6 +13,11 @@ class Person
   end
 end
 
-bob = Person.new
-bob.name
+lady = Person.new
+lady.name = "Beyonce"
+lady.name
+
+guy = Person.new
+guy.job = "whoknows"
+guy.job
 
