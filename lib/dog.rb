@@ -6,3 +6,5 @@ class Dog
     this_dog_name
   end
 end  
+
+iggy = Dog.new
