@@ -18,6 +18,6 @@ lady.name = "Beyonce"
 lady.name
 
 guy = Person.new
-guy.job = "whoknows"
+guy.job = "Singer"
 guy.job
 
