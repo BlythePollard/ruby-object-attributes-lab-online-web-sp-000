@@ -8,6 +8,6 @@ class Dog
 
 end  
 
-iggy = Dog.new
-iggy.name = "Fido"
-puts iggy.name
+fido = Dog.new
+fido.name = "Fido"
+puts fido.name
